@@ -1,5 +1,8 @@
 # datasets
-data/*
+*/data/*
+
+# other
+tasks/*
 
 # Macos files
 .DS_Store
