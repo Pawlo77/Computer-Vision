@@ -14,7 +14,7 @@ Computer vision plays a pivotal role in various industries, transforming the way
 
 The introductory tutorial lays the foundation for working proficiently with Python—a fundamental skill applicable throughout the entire course. This initial step ensures that student knows how to properly format code in python, how to document it and how to effortlessly work with anaconda.
 
-### 2. [Image Preprocessing and Augmentation](./preprocessing/tutorial.ipynb)
+### 2. [Image Preprocessing and Augmentation](./processing/tutorial.ipynb)
 
 This tutorial serves as an introduction to computer vision, focusing on tasks that should be performed before delving into machine learning. It covers crucial subjects that significantly impact a model's ability to learn and perform well. The content spans image preprocessing techniques and augmentation strategies, providing essential knowledge for enhancing the quality of your image datasets.
 
