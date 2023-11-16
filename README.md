@@ -20,4 +20,6 @@ This tutorial serves as an introduction to computer vision, focusing on tasks th
 
 ----
 
-*Follow these tutorials in the suggested order to build a strong foundation and seamlessly progress through the course, gaining valuable skills in image processing and computer vision.*
+Follow these tutorials in the suggested order to build a strong foundation and seamlessly progress through the course, gaining valuable skills in image processing and computer vision.
+
+*This tutorial series is developed for *Koło Naukowe Data Science at Warsaw University of Technology*, as preparation for larger computer-vision based project described **[here](./descGeoa.pdf)***
